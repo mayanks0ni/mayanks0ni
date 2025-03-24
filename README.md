@@ -9,7 +9,7 @@
 # Skills
 - Back-end Development
 
-![Static Badge](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Node.JS-yellow?style=for-the-badge&logo=node.js&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Node.JS-yellow?style=for-the-badge&logo=node.js&logoColor=white) ![Static Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 
 - Front-end Development
 
