@@ -7,7 +7,6 @@
 - Video Editor | Adobe After Effects
 
 # Skills
-- Back-end Development\n
-![Static Badge](https://img.shields.io/badge/Python-green)
-![Static Badge](https://img.shields.io/badge/Node.js-green)
-![Static Badge](https://img.shields.io/badge/C-blue)
+- Back-end Development
+
+![Static Badge](https://img.shields.io/badge/Python-green) ![Static Badge](https://img.shields.io/badge/Node.js-green) ![Static Badge](https://img.shields.io/badge/C-blue)
