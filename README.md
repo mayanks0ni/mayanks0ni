@@ -22,3 +22,5 @@
 - Coding Enviroment
 
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white) ![Static Badge](https://img.shields.io/badge/Atom-red?style=for-the-badge&logo=atom&logoColor=white) 
+
+![mayanks0ni's Stats](https://github-readme-stats.vercel.app/api?username=mayanks0ni&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
