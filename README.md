@@ -27,4 +27,4 @@
 
 ![mayanks0ni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayanks0ni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mayanks0ni.projmate)
+![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmayanks0ni.projmate%2Fvisits&style=for-the-badge)
