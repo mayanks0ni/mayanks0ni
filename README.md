@@ -13,7 +13,7 @@
 
 - Front-end Development
 
-![Static Badge](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white) ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-orchid?style=for-the-badge&logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white) ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![Static Badge](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white) ![Static Badge](https://img.shields.io/badge/Next.js-green?style=for-the-badge&logo=next&logoColor=green) ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-orchid?style=for-the-badge&logo=react&logoColor=white)
 
 - Cloud Computing
 
