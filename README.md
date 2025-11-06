@@ -70,7 +70,7 @@ actively solving problems on:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mayanks0ni&theme=github-dark&hide_border=true&border_radius=8" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mayanks0ni&theme=github-dark&hide_border=true&border_radius=8" height="160" />
 </p>
 
 ---
