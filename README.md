@@ -65,8 +65,8 @@ actively solving problems on:
 
 ### stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayanks0ni&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanks0ni&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayanks0ni&theme=github_dark" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayanks0ni&theme=github_dark" height="160" />
 </p>
 
 <p align="center">
