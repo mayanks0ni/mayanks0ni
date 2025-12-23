@@ -68,11 +68,12 @@ actively solving problems on:
 
 ---
 
-### currently  
-- exploring **mlops** and **ai integration** in full-stack apps  
-- working on **ai-powered productivity systems**  
-- refining my **problem-solving approach** through consistent dsa practice  
-- contributing to **open source** whenever possible  
+### currently
+- exploring **MLOps fundamentals** and **LLM integration** in full-stack applications  
+- building **AI-powered reflection and productivity systems** with retrieval-based reasoning  
+- designing **RAG pipelines** using vector databases and fast LLM inference  
+- sharpening **problem-solving and algorithmic thinking** through consistent DSA practice  
+- contributing to **open-source projects** and improving existing systems when possible  
 
 ---
 
