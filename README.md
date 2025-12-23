@@ -14,26 +14,39 @@ i like writing clean, modular code that just works.
 
 ---
 
-### stack  
-#### languages  
+### stack
+
+#### languages
 ![C](https://img.shields.io/badge/C-1B1F23?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1B1F23?style=flat&logo=python&logoColor=F7CB3F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1B1F23?style=flat&logo=javascript&logoColor=F7CB3F)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1B1F23?style=flat&logo=typescript&logoColor=3178C6)
 
-#### frameworks & tools  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+#### frontend
 ![React](https://img.shields.io/badge/React-1B1F23?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-1B1F23?style=flat&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-1B1F23?style=flat&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-1B1F23?style=flat&logo=tailwindcss&logoColor=38BDF8)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo)
 
-#### ai / ml / iot  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1B1F23?style=flat&logo=tensorflow&logoColor=FF6F00)
+#### backend & infra
+![Node.js](https://img.shields.io/badge/Node.js-1B1F23?style=flat&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1B1F23?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1B1F23?style=flat&logo=fastapi&logoColor=009688)
+![Firebase](https://img.shields.io/badge/Firebase-1B1F23?style=flat&logo=firebase&logoColor=FFCA28)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B1F23?style=flat&logo=postgresql&logoColor=4169E1)
+
+#### ai / ml / llms
+![Gemini API](https://img.shields.io/badge/Gemini_API-1B1F23?style=flat&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1B1F23?style=flat)
+![Retrieval-Augmented Generation](https://img.shields.io/badge/RAG-1B1F23?style=flat)
+![Vector Databases](https://img.shields.io/badge/Vector_DBs-1B1F23?style=flat)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1B1F23?style=flat&logo=scikit-learn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1B1F23?style=flat&logo=tensorflow&logoColor=FF6F00)
+
+#### systems / hardware / design
 ![ESP8266](https://img.shields.io/badge/ESP8266-1B1F23?style=flat&logo=espressif&logoColor=E7352C)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-1B1F23?style=flat&logo=dassaultsystemes&logoColor=FF0000)
+
 
 ---
 
