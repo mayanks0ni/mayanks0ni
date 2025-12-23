@@ -53,7 +53,7 @@ i like writing clean, modular code that just works.
 ### projects  
 | project | description | tech stack |
 |:--|:--|:--|
-| [**focusflow**](https://github.com/mayanks0ni/focusflow) | ai-driven study planner integrating google calendar and gemini api | next.js · node.js · gemini |
+| [**ev-route-optimization-system**](https://github.com/mayanks0ni/ev-route-optimization-system) | intelligent EV route planning system optimizing distance, charging constraints, and energy efficiency | c · optimization · algorithms |
 | [**projmate**](https://github.com/mayanks0ni/projmate) | collaborative platform for project tracking and team chat | react · express · mongodb |
 | [**iat-bot**](https://github.com/mayanks0ni/iat-bot) | discord bot with music, translation, and meme generation | node.js · discord.js · sqlite |
 | [**portfolio-better**](https://github.com/mayanks0ni/portfolio-better) | portfolio site with ai chatbot and express backend | next.js · tailwind · express |
